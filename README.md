@@ -1,5 +1,13 @@
 # Windows 11 Junk File Removal v2.0
 
+## 🖥️ Graphical edition — GUI v2.0
+
+Prefer a desktop app? Download the self-contained Windows x64 GUI. It includes the cleanup script and shows live progress, prompts, and the final summary in the Activity panel.
+
+**[⬇️ Download GUI (Windows x64)](https://github.com/aurenhexliner/WIN11_SYSTEM_CLEANER_V2/releases/download/WIN11_JUNK_FILE_REMOVAL_GUI_V2/Win11JunkFileRemovalGui.exe)** · **[📦 View the GUI release and all files](https://github.com/aurenhexliner/WIN11_SYSTEM_CLEANER_V2/releases/tag/WIN11_JUNK_FILE_REMOVAL_GUI_V2)**
+
+[📄 GUI guide (English)](https://github.com/aurenhexliner/WIN11_SYSTEM_CLEANER_V2/releases/download/WIN11_JUNK_FILE_REMOVAL_GUI_V2/README_GUI.txt) · [📄 GUI guide (Polski)](https://github.com/aurenhexliner/WIN11_SYSTEM_CLEANER_V2/releases/download/WIN11_JUNK_FILE_REMOVAL_GUI_V2/README_GUI_PL.txt) · [⚖️ Licence](https://github.com/aurenhexliner/WIN11_SYSTEM_CLEANER_V2/releases/download/WIN11_JUNK_FILE_REMOVAL_GUI_V2/LICENCE.txt)
+
 **Windows system cleanup and maintenance script**
 
 An interactive PowerShell utility to help reclaim disk space and clean up
